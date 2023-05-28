@@ -1,0 +1,37 @@
+<style>
+
+        h1{
+            text-align: center;
+            color: rgb(2, 117, 117);
+            background-color: rgb(248, 198, 144);
+            font-size: 40px;
+        }
+
+        h2{
+            text-align: center;
+            color: rgb(62, 104, 153);
+        }
+
+        body{
+            background-color: rgb(248, 176, 93);
+        }
+    </style>
+    <p>
+ &nbsp; &nbsp &nbsp &nbsp&nbsp 
+    </p>
+    <style>
+        p{
+            font-size: 20px;
+            color: rgb(87, 35, 121);
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    </style>
+    <br>
+    <hr>
+    <style>
+        hr{
+            background-color: black;
+            height: 3px;
+        }
+    </style>
